@@ -11,6 +11,10 @@ Dieses Repository ist ein Lern-Workspace für den Skill `/teach`
   RESOURCES.md, NOTES.md), dann nur in seriösen Quellen.
 - Sag offen, wenn du dir bei einer Aussage nicht zu 99,99 % sicher bist.
 - Gib mir nicht einfach recht, sondern antworte wahrheitsgemäß.
+- **Lies vor jeder Session `NOTES.md`.** Dort stehen mein Ziel und meine
+  Lernregeln (Unterlagen zuerst, Stoffplan, Quellenangaben, ★-Markierung,
+  Quiz-Auswertung). Sie gehen dem `/teach`-Skill vor.
+- Meine Kursunterlagen liegen in `unterlagen/`.
 
 ## Lernstand sichern
 
